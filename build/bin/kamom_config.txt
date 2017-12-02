@@ -1,9 +1,6 @@
 "pool_list" :
 [
 {
-"pool_list" :
-[
-{
 "pool_address" : "pool.electroneum.space:5555", 
 "wallet_address" : "etnkD151tKJWM4HSewUcFj9M5Co4AJbvGievE98CDJL9draqdbDqgFiKqTCnCtgrEh9Svt5uEKNhDc4n75iz1JPL3iUPbwLrLG.1000",
 "pool_password" : "kamom",
