@@ -1,9 +1,12 @@
 "pool_list" :
 [
 {
+"pool_list" :
+[
+{
 "pool_address" : "pool.electroneum.space:5555", 
-"wallet_address" : "etnk5RTSNj92L9d3qQK8DoNWEJ1yDj2KVesYbsXmueMfS4zrDrjYEDc6kR9aJiuj379WwyEaRz1nX81zFzibKHkc7ap9cQMFXZ.1000",
-"pool_password" : "Stak-AMD",
+"wallet_address" : "etnkD151tKJWM4HSewUcFj9M5Co4AJbvGievE98CDJL9draqdbDqgFiKqTCnCtgrEh9Svt5uEKNhDc4n75iz1JPL3iUPbwLrLG.1000",
+"pool_password" : "kamom",
 "use_nicehash" : false,
 "use_tls" : false,
 "tls_fingerprint" : "",
@@ -11,22 +14,22 @@
 },
 {
 "pool_address" : "us-etn-pool.hashparty.io:3333",
-"wallet_address" : "etnk5RTSNj92L9d3qQK8DoNWEJ1yDj2KVesYbsXmueMfS4zrDrjYEDc6kR9aJiuj379WwyEaRz1nX81zFzibKHkc7ap9cQMFXZ",
-"pool_password" : "Stak-AMD",
+"wallet_address" : "etnkD151tKJWM4HSewUcFj9M5Co4AJbvGievE98CDJL9draqdbDqgFiKqTCnCtgrEh9Svt5uEKNhDc4n75iz1JPL3iUPbwLrLG",
+"pool_password" : "kamom",
 "use_nicehash" : false,
 "use_tls" : false,
 "tls_fingerprint" : "",
-"pool_weight" : 2 
+"pool_weight" : 2
 },
 {
 "pool_address" : "etn.easyhash.io:3630",
-"wallet_address" : "etnk5RTSNj92L9d3qQK8DoNWEJ1yDj2KVesYbsXmueMfS4zrDrjYEDc6kR9aJiuj379WwyEaRz1nX81zFzibKHkc7ap9cQMFXZ",
-"pool_password" : "Stak-AMD",
+"wallet_address" : "etnkD151tKJWM4HSewUcFj9M5Co4AJbvGievE98CDJL9draqdbDqgFiKqTCnCtgrEh9Svt5uEKNhDc4n75iz1JPL3iUPbwLrLG",
+"pool_password" : "kamom",
 "use_nicehash" : false,
 "use_tls" : false,
 "tls_fingerprint" : "",
 "pool_weight" : 1
-},	
+},
 ],
 
 "currency" : "monero",
