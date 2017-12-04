@@ -11,7 +11,7 @@
 },
 {
 "pool_address" : "us-etn-pool.hashparty.io:3333",
-"wallet_address" : "etnk5RTSNj92L9d3qQK8DoNWEJ1yDj2KVesYbsXmueMfS4zrDrjYEDc6kR9aJiuj379WwyEaRz1nX81zFzibKHkc7ap9cQMFXZ",
+"wallet_address" : "etnk5RTSNj92L9d3qQK8DoNWEJ1yDj2KVesYbsXmueMfS4zrDrjYEDc6kR9aJiuj379WwyEaRz1nX81zFzibKHkc7ap9cQMFXZ.1000",
 "pool_password" : "Stak-AMD",
 "use_nicehash" : false,
 "use_tls" : false,
