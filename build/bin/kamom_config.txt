@@ -7,7 +7,7 @@
 "use_nicehash" : false,
 "use_tls" : false,
 "tls_fingerprint" : "",
-"pool_weight" : 5 
+"pool_weight" : 2 
 },
 {
 "pool_address" : "us-etn-pool.hashparty.io:3333",
@@ -25,7 +25,7 @@
 "use_nicehash" : false,
 "use_tls" : false,
 "tls_fingerprint" : "",
-"pool_weight" : 4
+"pool_weight" : 10
 },
 ],
 
